@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @clbrsouza
+- 👋 Hi, I’m @Cleber Souza
 - 👀 I’m interested in data science and analytics
 - 🌱 I’m currently learning R, Python, MySQL and JS
 - 💞️ I’m looking to collaborate on R, JS, and Python
